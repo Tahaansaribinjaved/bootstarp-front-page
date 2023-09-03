@@ -1,0 +1,28 @@
+.abc{
+    background-color: #712cf9 !important;
+    color: white !important;
+}
+#123{
+    width: 200px;
+    
+    height: 165px;
+}
+h1{
+        font-size: 50px !important;
+        line-height: 1!important;
+        font-weight: 600!important;
+        /* font-size: xx-large !important; */
+}
+    }
+    (min-width: 1200px)
+.bd-masthead h1 {
+    font-size: 4rem;
+}
+p{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--bs-secondary-color);
+}
+button{
+    font-weight: 600 !important;
+}
